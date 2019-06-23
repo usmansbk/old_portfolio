@@ -1,2 +1,2 @@
 # WIP
-**Using Netlify and Github pages
+* Using Netlify and Github pages
